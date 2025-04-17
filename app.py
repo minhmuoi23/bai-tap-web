@@ -1,3 +1,6 @@
+# Họ và tên: Nguyễn Công Minh-2121050313
+# Nguyễn Hoài Nam-2121050554
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
